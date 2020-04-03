@@ -13,7 +13,7 @@
   
     
   5. **Clasa Medic** extinde clasa Personal si retine informatiile despre un medic ( salariu, specializare, experienta, etc). Fiecare medic contine un vector cu toate programarile sale, definit ca un tablou unidimensional: Programare[] programari. Metode:
-   ..* setCapacity : prin care redimensionez capacitatea vectorului
+   ⋅⋅* setCapacity : prin care redimensionez capacitatea vectorului
    ..* adauga_programare_medic : adauga la primul index disponibil o programare
    ..* sterge_programare_medic : sterge o programare dupa index (dat ca parametru)
    ..* returneaza_pacient : intoarce un obiect de tip Pacient din lista de programari
