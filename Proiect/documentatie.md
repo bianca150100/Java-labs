@@ -26,7 +26,7 @@
     * genereaza_lista_medici : afiseaza la tastatura numele fiecarui medic, pentru a folosi la crearea unui programari (Clientul isi va alege din aceasta lista medicul la care doreste sa fie programat)
     * creeaza_programare : functia e responsabila de citirea datelor necesare unei noi programari. Daca medicul la care se doreste sa fie repartizata programarea este disponibil, atunci Programarea este adaugata la lista de prog a medicului, iar pacientului creat i se va atribui programarea. ! Aici sortez programarile medicului, pentru a fi retinute in ordine cronologica.
     * anuleaza_programare: se citeste indexul unei programari, medicul la care este realizata si se apeleaza functia din clasa Medic: sterge_programare_medic. In acest caz, programarile nu mai trebuiesc sortate, deoarece vor ramane.
-    * modifica_programare: se poate modifica o programare doar daca data noua e disponibila. Ulterior, vectorul de programari corespunzatoare medicului e din nou sortat.
+    *  modifica_programare: se poate modifica o programare doar daca data noua e disponibila. Ulterior, vectorul de programari corespunzatoare medicului e din nou sortat.
     
    8. **Clasa Test_medici** este conceputa pentru a testa serviciile deja create si a adauga altele noi:
    * serviciu_adauga_prog 
