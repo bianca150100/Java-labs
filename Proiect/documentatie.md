@@ -13,12 +13,12 @@
   
     
   5. **Clasa Medic** extinde clasa Personal si retine informatiile despre un medic ( salariu, specializare, experienta, etc). Fiecare medic contine un vector cu toate programarile sale, definit ca un tablou unidimensional: Programare[] programari. Metode:
-   ⋅⋅* setCapacity : prin care redimensionez capacitatea vectorului
-   ..* adauga_programare_medic : adauga la primul index disponibil o programare
-   ..* sterge_programare_medic : sterge o programare dupa index (dat ca parametru)
-   ..* returneaza_pacient : intoarce un obiect de tip Pacient din lista de programari
-   ..* elibereaza_reteta: creeaza o reteta corespunzatoare unui pacient. In cazul in care pacientul necesita concediu medical, este eliberat si acesta.
-   ..* verifica_disponibilitate_medic : verifica daca ziua, luna si anul pentru care se solicita o programare este ocupata
+   * setCapacity : prin care redimensionez capacitatea vectorului
+   * adauga_programare_medic : adauga la primul index disponibil o programare
+   * sterge_programare_medic : sterge o programare dupa index (dat ca parametru)
+   * returneaza_pacient : intoarce un obiect de tip Pacient din lista de programari
+   * elibereaza_reteta: creeaza o reteta corespunzatoare unui pacient. In cazul in care pacientul necesita concediu medical, este eliberat si acesta.
+   * verifica_disponibilitate_medic : verifica daca ziua, luna si anul pentru care se solicita o programare este ocupata
    
    6. **Clasa Gestiune_medici** contine un vector cu medicii din cabinet(este initializata in constructor cu 3 medici diferiti).
    
