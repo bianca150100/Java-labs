@@ -12,7 +12,7 @@ Am avut 2 abordari:
 Prima abordare (in pachetul csv)
 
 
-1.Am creat interfata CsvInterface cu metode ce vor fi suprascrise in clasele pentru care doresc afisarea
+1. Am creat interfata CsvInterface cu metode ce vor fi suprascrise in clasele pentru care doresc afisarea
 2. Clasa CsvScriere - clasa generica
 3. Clasa CsvAfisare - clasa generica
 4. TestCitire si TestAfisare - clase de test pt aceasta abordare
