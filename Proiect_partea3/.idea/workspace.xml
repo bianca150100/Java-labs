@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef0cfeef-3600-45be-b08d-5c4727a23a5e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Proiect_partea2" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ao6uclUMC3Zq1DjcDmfeAfaQlH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Robin Hood and The Graphs" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="serviciu" />
+      <recent name="csv" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainFr">
+    <configuration name="FrameVerificaDisp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfataProg.FrameVerificaDisp" />
+      <module name="Proiect_partea2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interfataProg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Proiect_partea2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainFR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfataLogistica.MainFR" />
+      <module name="Proiect_partea2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interfataLogistica.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainFr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfataProg.MainFr" />
+      <module name="Proiect_partea2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interfataProg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestareDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestareDB" />
+      <module name="Proiect_partea2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainFr" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MainFR" />
+        <item itemvalue="Application.TestareDB" />
+        <item itemvalue="Application.FrameVerificaDisp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef0cfeef-3600-45be-b08d-5c4727a23a5e" name="Default Changelist" comment="" />
+      <created>1587389822797</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587389822797</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="437" y="174" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590495591173">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="437" y="174" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1590495591173" />
+    <state x="488" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1590434141921">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1590434141921" />
+    <state x="413" y="147" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1587570996823">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="147" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1587570996823" />
+    <state x="484" y="255" width="398" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587570958855">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="484" y="255" width="398" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1587570958855" />
+    <state x="534" y="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1587570997930">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="534" y="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1587570997930" />
+    <state x="413" y="114" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589055572116">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="114" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1589055572116" />
+    <state x="445" y="245" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1590429819962">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="445" y="245" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1590429819962" />
+    <state x="389" y="108" key="FileChooserDialogImpl" timestamp="1589570687348">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="108" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589570687348" />
+    <state width="1323" height="65" key="GridCell.Tab.0.bottom" timestamp="1591091290045">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="65" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591091290045" />
+    <state width="1323" height="65" key="GridCell.Tab.0.center" timestamp="1591091290045">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="65" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591091290045" />
+    <state width="1323" height="65" key="GridCell.Tab.0.left" timestamp="1591091290045">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="65" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591091290045" />
+    <state width="1323" height="65" key="GridCell.Tab.0.right" timestamp="1591091290045">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="65" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591091290045" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1589052203894">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589052203894" />
+    <state x="65" y="0" key="new project wizard" timestamp="1590578612116">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1590578612116" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1589047448458">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1589047448458" />
+  </component>
+</project>
