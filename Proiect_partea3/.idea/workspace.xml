@@ -38,7 +38,7 @@
       <recent name="csv" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainFr">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="FrameVerificaDisp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="interfataProg.FrameVerificaDisp" />
       <module name="Proiect_partea2" />
@@ -94,8 +94,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainFr" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MainFr" />
         <item itemvalue="Application.MainFR" />
         <item itemvalue="Application.TestareDB" />
         <item itemvalue="Application.FrameVerificaDisp" />
@@ -151,22 +151,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="389" y="108" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589570687348" />
-    <state width="1323" height="65" key="GridCell.Tab.0.bottom" timestamp="1591091290045">
+    <state width="1323" height="102" key="GridCell.Tab.0.bottom" timestamp="1591370132331">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="65" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591091290045" />
-    <state width="1323" height="65" key="GridCell.Tab.0.center" timestamp="1591091290045">
+    <state width="1323" height="102" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591370132331" />
+    <state width="1323" height="102" key="GridCell.Tab.0.center" timestamp="1591370132330">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="65" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591091290045" />
-    <state width="1323" height="65" key="GridCell.Tab.0.left" timestamp="1591091290045">
+    <state width="1323" height="102" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591370132330" />
+    <state width="1323" height="102" key="GridCell.Tab.0.left" timestamp="1591370132330">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="65" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591091290045" />
-    <state width="1323" height="65" key="GridCell.Tab.0.right" timestamp="1591091290045">
+    <state width="1323" height="102" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591370132330" />
+    <state width="1323" height="102" key="GridCell.Tab.0.right" timestamp="1591370132330">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="65" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591091290045" />
+    <state width="1323" height="102" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591370132330" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1589052203894">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

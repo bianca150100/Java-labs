@@ -1,6 +1,7 @@
 package interfataProg;
 
 import database.DatabasePacientProgramare;
+import database.DatabasePersonal;
 import interfataLogistica.MainFR;
 import model.*;
 import serviciu.ServiciuAudit;
@@ -23,11 +24,9 @@ public class MainFr extends JFrame {
     FrameModificaProgramare fmp = new FrameModificaProgramare();
     FrameAnuleazaProgramare fap = new FrameAnuleazaProgramare();
     DatabasePacientProgramare dpp = DatabasePacientProgramare.getInstance();
+    DatabasePersonal dpers = DatabasePersonal.getInstance();
     private JPanel mainPanel2;
     private JLabel text1;
-
-
-
     private JButton genereazaListaMedici;
     private JButton verificaDispMedic;
     private JLabel text2;
@@ -88,9 +87,21 @@ public class MainFr extends JFrame {
         add(mainPanel2);
 
         mainPanel2.add(text2);
+
         genereazaListaMedici.addActionListener(new ActionListener(){
             public void actionPerformed(ActionEvent e){
                 Secretariat scr = new Secretariat("Popescu","Maria", 1990, g);
+                int index=0;
+                Personal p =(Personal)scr;
+                dpers.adaugaPersonal(scr,++index);
+                Medic[] medici = g.getMedici();
+                for (int i=0; i<medici.length;i++)
+                {
+                    Medic m = medici[i];
+                    Personal pp =(Personal) m;
+                    dpers.adaugaPersonal(pp, ++index);
+                }
+
                 String result = scr.genereazaListaMedici();
                 serviciu.adaugaServiciu("genereazaListaMedici");
                 //System.out.println(result);;
@@ -117,6 +128,7 @@ public class MainFr extends JFrame {
                 int an = Integer.parseInt(fp.getAn().getText());
                 int ora = Integer.parseInt(fp.getOra().getText());
                 Medic[] medici = g.getMedici();
+
 
 
                 //System.out.println(medici[indice_medic]);
@@ -168,7 +180,7 @@ public class MainFr extends JFrame {
                 serviciu.adaugaServiciu("modificaProgramare");
                 // System.out.println(m);
                 dpp.stergePacient(k);
-                text1.setText("Numele d-vostra" + k);
+                text1.setText("Numele d-vostra " + k +".  Anulare cu succes!");
                 List<Pacient> listaP = dpp.citestePacient();
                 System.out.println(" Nr pacienti ramasi dupa anularea prog: "  +listaP.size());
             }
@@ -184,16 +196,10 @@ public class MainFr extends JFrame {
             }
         });
 
-
-
-
-
-
-
     }
 
-    public static void main(String[] args) throws SQLException, ClassNotFoundException {
+   /* public static void main(String[] args) throws SQLException, ClassNotFoundException {
         MainFr frame = new MainFr();
-    }
+    }*/
 
 }

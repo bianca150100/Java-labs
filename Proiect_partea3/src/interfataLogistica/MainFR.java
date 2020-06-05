@@ -69,6 +69,7 @@ public class MainFR extends  JFrame{
                 dm.adaugaMedicament(m);
                 dm.afiseazaMedicament(fm.getNume().getText());
                 System.out.println(sr.getProduseCabinet());
+                text.setText("Adaugat cu succes!");
 
 
 
@@ -82,6 +83,7 @@ public class MainFR extends  JFrame{
                         fu.getIntrebuintare().getText(), Integer.parseInt(fu.getAn().getText()), Integer.parseInt(fu.getTimp().getText()));
                 sr.adaugaProdus(u);
                 System.out.println(sr.getProduseCabinet());
+                text.setText("Adaugat cu succes!");
 
 
 
@@ -138,9 +140,9 @@ public class MainFR extends  JFrame{
 
 
 
-    public static void main(String[] args) throws SQLException, ClassNotFoundException {
+    /*public static void main(String[] args) throws SQLException, ClassNotFoundException {
         MainFR frame = new MainFR();
-    }
+    }*/
 
 
 
