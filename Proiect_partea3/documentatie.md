@@ -3,12 +3,12 @@
 
   Partea a III-a:
   
-  ## 1. Baze de date:
+  #### 1. Baze de date:
   
   
   Lucrul cu bazele de date pot fi vizualizate in pachetul "database". M-am folosit de SQLite si am creat o baza de date ce contine urmatoarele tabele: medicament, pacient, programare, personal. Am create operatii de adaugare, modificare, citire din baza de date, afisare, stergerea unei inregistrarii, respectiv stergerea intregului tabel. Testarea acestei implementari poate fi vazuta in clasa "TestareDB".
   
- ## 2. Interfata grafica
+ #### 2. Interfata grafica
   
   
   Dat fiind faptul ca aplicatia mea a avut 2 directii: una in care se retine partea de logistica si cealalta cu privire la programari, mi-am creat 2 interfete corespunzatoare.
@@ -20,7 +20,7 @@
   Testarea se face in clasa "Main".
   Prin rularea clasei "Main", utilizatorul este intrebat daca doreste sa se ruleze prin intermediul interfetei sau clasic.
   
- ## 3. Serviciul de audit
+ #### 3. Serviciul de audit
   
   
   Am adaugat numele thread-ului care apleaza orice functionaliatate: fie cand este apelata in interfata, fie in mod normal.
