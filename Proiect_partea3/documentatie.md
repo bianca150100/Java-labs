@@ -16,6 +16,8 @@
   Cea corespunzatoare partii de logistica se gaseste in pachetul "interfataLogistica" si are urmatoarele functionalitati: adauga medicament, adauga ustensila, casare, afisare logistica. Pe masura ce sunt adaugate obiecte de tip Medicament, acestea sunt adaugate si in baza de date.
   
   Cea corespunzatoare programarilor se gaseste in pachetul "interfataProg", are 2 ecrane ce pun la dispozitie urmatoarele functionalitati: genereaza lista medici, adauga programare, modifica programare existenta, anuleaza programare. Butonul "verifica disponibilitate medic" va afisa un alt ecran in care se cer informatiile despre data la care se doreste a se verifica disponibilitatea. Cand sunt introduse date, acestea vor fi adaugate si in baza de date, in tabelele corespunzatoare.
+  
+  Testarea se face in clasa "Main".
   Prin rularea clasei "Main", utilizatorul este intrebat daca doreste sa se ruleze prin intermediul interfetei sau clasic.
   
   3. Serviciul de audit
